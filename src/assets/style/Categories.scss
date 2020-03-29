@@ -1,0 +1,10 @@
+@import './Vars.scss';
+.categories__title {
+    background:$border-color;
+    color:$main-color;
+    font-size: 16px;
+    margin-top: 45px;
+    position: flex;
+    padding-left: 100px;
+    width: 100%;
+}
